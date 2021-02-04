@@ -1,0 +1,4 @@
+'Employee1': 223000
+'Employee2': 19000
+'Employee3': 6000
+'Employee4': 3500

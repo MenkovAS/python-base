@@ -1,0 +1,3 @@
+Computer_science 30 30 40
+Physics 12 20 —
+Physical_Education 50 — 30
